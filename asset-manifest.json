@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.107f4b29.chunk.css",
+    "main.js": "/static/js/main.96e67afe.chunk.js",
+    "main.js.map": "/static/js/main.96e67afe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.481e2d71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.481e2d71.js.map",
+    "static/css/2.a784be7c.chunk.css": "/static/css/2.a784be7c.chunk.css",
+    "static/js/2.dd8103a1.chunk.js": "/static/js/2.dd8103a1.chunk.js",
+    "static/js/2.dd8103a1.chunk.js.map": "/static/js/2.dd8103a1.chunk.js.map",
+    "static/js/3.6f64b6b9.chunk.js": "/static/js/3.6f64b6b9.chunk.js",
+    "static/js/3.6f64b6b9.chunk.js.map": "/static/js/3.6f64b6b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a784be7c.chunk.css.map": "/static/css/2.a784be7c.chunk.css.map",
+    "static/css/main.107f4b29.chunk.css.map": "/static/css/main.107f4b29.chunk.css.map",
+    "static/js/2.dd8103a1.chunk.js.LICENSE.txt": "/static/js/2.dd8103a1.chunk.js.LICENSE.txt",
+    "static/media/layout.scss": "/static/media/bg-stadium.a7b2b2bb.jpeg",
+    "static/media/app.scss": "/static/media/arrow-right.8bbeb90b.svg",
+    "static/media/_live.scss": "/static/media/volleyball.5f771d64.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481e2d71.js",
+    "static/css/2.a784be7c.chunk.css",
+    "static/js/2.dd8103a1.chunk.js",
+    "static/css/main.107f4b29.chunk.css",
+    "static/js/main.96e67afe.chunk.js"
+  ]
+}
